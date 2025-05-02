@@ -28,7 +28,7 @@ A Spring Boot REST API that supports Google OAuth2 🔓 and JWT-based authentica
 
 * Java 17 or newer
 * Maven or Gradle
-* PostgreSQL (or your preferred DB)
+* MySQL (or your preferred DB)
 
 ### Setup
 
